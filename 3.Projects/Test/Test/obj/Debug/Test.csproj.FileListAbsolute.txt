@@ -1,0 +1,14 @@
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\Test.exe.config
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\Test.exe
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\Test.pdb
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\MongoDB.Bson.dll
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\MongoDB.Driver.Core.dll
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\MongoDB.Driver.dll
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\MongoDB.Bson.xml
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\bin\Debug\MongoDB.Driver.xml
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\obj\Debug\Test.exe
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\Test\Test\obj\Debug\Test.pdb
+E:\WorkSpace\0.公用经验\MyCode\VL\CMS\Database\MongoDB\Test\Test\bin\Debug\Test.exe.config
+E:\WorkSpace\0.公用经验\MyCode\VL\CMS\Database\MongoDB\Test\Test\obj\Debug\Test.exe
+E:\WorkSpace\0.公用经验\MyCode\VL\CMS\Database\MongoDB\Test\Test\obj\Debug\Test.pdb

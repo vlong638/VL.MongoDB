@@ -1,0 +1,17 @@
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDBStarter.exe.config
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDBStarter.exe
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDBStarter.pdb
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDB.Bson.dll
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDB.Driver.Core.dll
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDB.Driver.dll
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDB.Bson.xml
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDB.Driver.xml
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\obj\Debug\MongoDBStarter.csprojResolveAssemblyReference.cache
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\obj\Debug\MongoDBStarter.exe
+E:\WorkSpace\4.Projects\TFS.V5\Dacai.MsgBoard\Src\MongoDBStarter\MongoDBStarter\obj\Debug\MongoDBStarter.pdb
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDBStarter.exe.config
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\MongoDBStarter\MongoDBStarter\obj\Debug\MongoDBStarter.exe
+E:\WorkSpace\0.公用经验\MyCode\VL\Database\MongoDB\MongoDBStarter\MongoDBStarter\obj\Debug\MongoDBStarter.pdb
+E:\WorkSpace\0.公用经验\MyCode\VL\CMS\Database\MongoDB\MongoDBStarter\MongoDBStarter\bin\Debug\MongoDBStarter.exe.config
+E:\WorkSpace\0.公用经验\MyCode\VL\CMS\Database\MongoDB\MongoDBStarter\MongoDBStarter\obj\Debug\MongoDBStarter.exe
+E:\WorkSpace\0.公用经验\MyCode\VL\CMS\Database\MongoDB\MongoDBStarter\MongoDBStarter\obj\Debug\MongoDBStarter.pdb

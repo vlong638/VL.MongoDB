@@ -1,0 +1,1 @@
+D:\ToolsForDevelopment\MongoDB\bin\mongod --dbpath D:\ToolsForDevelopment\MongoDB\1.ShardedCluster\Shard1 --port 2021

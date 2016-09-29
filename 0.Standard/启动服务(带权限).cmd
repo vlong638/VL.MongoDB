@@ -1,0 +1,1 @@
+D:\ToolsForDevelopment\MongoDB\bin\mongod --dbpath D:\ToolsForDevelopment\MongoDB\database -auth

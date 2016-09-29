@@ -1,0 +1,1 @@
+D:\ToolsForDevelopment\MongoDB\bin\mongod --configsvr --dbpath D:\ToolsForDevelopment\MongoDB\1.ShardedCluster\ConfigServer1 --port 2001

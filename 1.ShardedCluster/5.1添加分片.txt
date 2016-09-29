@@ -1,0 +1,5 @@
+sh.addShard("127.0.0.1:2021")
+use admin
+db.runCommand({"addshard":"127.0.0.1:2022"})
+db.runCommand({"addshard":"127.0.0.1:2023"})
+db.printShardingStatus()

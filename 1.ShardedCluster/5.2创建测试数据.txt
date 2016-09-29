@@ -1,0 +1,1 @@
+for(var i=0;i<100;i++){ db.person.insert({name:"tester"+1,age:i}) }

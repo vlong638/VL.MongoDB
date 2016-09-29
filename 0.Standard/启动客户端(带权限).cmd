@@ -1,0 +1,1 @@
+D:\ToolsForDevelopment\MongoDB\bin\mongo MsgBoard  -u test -p pw_test

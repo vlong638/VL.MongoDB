@@ -1,0 +1,1 @@
+D:\ToolsForDevelopment\MongoDB\bin\mongo 10.12.8.197/MsgBoard

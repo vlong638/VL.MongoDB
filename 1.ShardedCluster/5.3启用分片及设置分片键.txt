@@ -1,0 +1,13 @@
+for(var i=0;i<10000;i++){ db.person.insert({name:"tester"+1,age:i}) }
+
+sh.enableSharding("test")
+or
+db.runCommand({enableSharding:"test"})
+
+db.person.createIndex({age:1})
+
+sh.shardCollection("test.person",{age:1})
+
+for(var i=10000;i<20000;i++){ db.person.insert({name:"tester"+1,age:i}) }
+
+sh.printShardingStatus()

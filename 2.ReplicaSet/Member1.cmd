@@ -1,0 +1,1 @@
+D:\ToolsForDevelopment\MongoDB\bin\mongod --dbpath D:\ToolsForDevelopment\MongoDB\2.ReplicaSet\Member1 --port 3001 --replSet "RS1"
